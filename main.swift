@@ -5,5 +5,10 @@ print(username + wlcMsg)
 
 var i = 44
 var b = 22
+<<<<<<< HEAD
 var res = i*b*i*i
 print(res)
+=======
+var res = i*b*i*i*i*i
+print(res*2)
+>>>>>>> multiplication
